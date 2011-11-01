@@ -1,0 +1,8 @@
+This script converts HH:MM:SS to seconds and seconds to HH:MM:SS.
+
+Usage:
+
+matt$ python tc.py 12:20:30
+44430
+matt$ python tc.py 44430
+12:20:30
